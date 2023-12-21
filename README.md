@@ -1,8 +1,3 @@
-# Send-mail-and-Read-Inbox-Using-Python
-Certainly! A good README helps users understand how to use your scripts and provides important information. Below is a template for a README file for your Send Email and Read Inbox scripts:
-
----
-
 # Email Automation Scripts
 
 This repository contains Python scripts for sending emails and reading inbox messages using Gmail. The two main scripts are `send_email.py` and `read_inbox.py`.
